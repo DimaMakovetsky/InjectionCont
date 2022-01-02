@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace InjectionCont
 {
-    class ImplementationNumb
+    [Flags]
+    public enum ImplementationNumber
     {
+        None,
+        First,
+        Second,
+        Any = None | First | Second,
     }
 }
