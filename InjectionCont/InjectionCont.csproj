@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cycle.cs" />
+    <Compile Include="DependenciesConfig.cs" />
     <Compile Include="Implementation.cs" />
     <Compile Include="ImplementationNumb.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
