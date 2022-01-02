@@ -44,6 +44,7 @@
     <Compile Include="ConfigValidator.cs" />
     <Compile Include="Cycle.cs" />
     <Compile Include="DependenciesConfig.cs" />
+    <Compile Include="DependencyKey.cs" />
     <Compile Include="Implementation.cs" />
     <Compile Include="ImplementationNumb.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
