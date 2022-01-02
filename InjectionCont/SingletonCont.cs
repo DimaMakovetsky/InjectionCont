@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InjectionCont
 {
-    class SingletonCont
+    public class SingletonCont
     {
         public readonly ImplementationNumber ImplNumber;
 

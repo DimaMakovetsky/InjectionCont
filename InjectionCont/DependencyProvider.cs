@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace InjectionCont
 {
-    class DependencyProvider
+    public class DependencyProvider
     {
         private Mutex mutex = new Mutex();
         private readonly DependenciesConfig _configuration;

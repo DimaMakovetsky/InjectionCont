@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InjectionCont
 {
-    class DependenciesConfig
+    public class DependenciesConfig
     {
         public Dictionary<Type, List<Implementation>> DependenciesDictionary { get; private set; }
 
